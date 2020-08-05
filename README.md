@@ -1,4 +1,4 @@
-### Hi there, I'm Jared - a software engineer 👋
+### Hi there, I'm Jared 👋
 
 ## I'm a Developer, World Travler, and Tech Nerd!
 - 🔭 I’m currently working on a videoplatform concept with another developer in Germany!
