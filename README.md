@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a videoplatform concept with another developer in Germany!
 - 🌱 I love learning about everything 🤣
 - 🥅 2020 Goals: Start working with an amazing comapny, expand my knowledge base of programming, and maybe move somewhere new
-- ⚡ Fun fact: I love cooking, playing sports, and reading (currently reading The Way of Zen by Alan Watts)
+- ⚡ Fun fact: I love cooking, playing sports, and reading (currently reading The Way of Zen by Alan Watts)... any Sanderson fans?
 
 ### Connect with me:
 
