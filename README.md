@@ -16,5 +16,7 @@
 [instagram]: https://www.instagram.com/jared.alro/
 [linkedin]: https://www.linkedin.com/in/jared-rothenberg
 
+<br>
+
 <img align="left" alt="Jaredar1232's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jaredar1232&show_icons=true&hide_border=true&count_private=true&hide=stars,prs,contribs" />
 
