@@ -1,6 +1,6 @@
 ### Hi there, I'm Jared 👋
 
-## I'm a Developer, World Travler, and Tech Nerd!
+## I'm a Developer, Travler, and Tech Nerd!
 - 🔭 I’m currently working on a videoplatform concept with another developer in Germany!
 - 🌱 I love learning about everything 🤣
 - 🥅 2020 Goals: Start working with an amazing comapny, keep expanding programming skills, move somewhere new?
