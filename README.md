@@ -15,6 +15,5 @@
 [website]: https://www.jaredar.com/
 [instagram]: https://www.instagram.com/jared.alro/
 [linkedin]: https://www.linkedin.com/in/jared-rothenberg
-/play horn
 
 
