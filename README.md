@@ -3,8 +3,8 @@
 ## Developer, Travler, and Tech Nerd!
 - 🔭 I’m currently working on a videoplatform concept with another developer in Germany!
 - 🌱 I love learning about everything 🤣
-- ⚡ **2020 Goals:** Start working with an amazing company, keep expanding programming skills, move somewhere new?
-- 🥅 **Hobbies:** traveling(18 countries!), playing sports, and reading (currently reading The Way of Zen by Alan Watts)... any Sanderson fans?
+- ⚡ *2020 Goals:* Start working with an amazing company, keep expanding programming skills, move somewhere new?
+- 🥅 *Hobbies:* traveling(18 countries!), playing sports, and reading (currently reading The Way of Zen by Alan Watts)... any Sanderson fans?
 
 ### Connect with me:
 
