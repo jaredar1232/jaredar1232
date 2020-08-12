@@ -1,4 +1,4 @@
-### Hi there, I'm Jared 👋
+### Welcome, I'm Jared 
 
 ## Developer, Traveler, and Nerd!
 - :point_down: I’m currently working on a University speech concept with another developer in Germany!:earth_africa:
