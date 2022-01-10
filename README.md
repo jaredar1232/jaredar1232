@@ -2,8 +2,8 @@
 
 ## Developer, Traveler, and Nerd!
 - :bulb: I love learning about everything :sweat_smile:
-- :raised_hands: *2021 Goals:* Start working with an amazing company, ✔️ keep expanding programming skills ✔️, move somewhere new? ✔️
-- :octocat: *Hobbies:* traveling(18 countries!), playing sports, and reading (Just finished Rhythm of War)... any Sanderson fans?
+- :raised_hands: *2022 Goals:* ✔️ keep expanding programming skills ✔️, move somewhere new? ✔️
+- :octocat: *Hobbies:* traveling(21 countries!), playing sports, and reading... any Sanderson fans?
 
 ### Connect with me:
 
