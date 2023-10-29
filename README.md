@@ -2,8 +2,8 @@
 
 ## Developer, Traveler, and Nerd!
 - :bulb: I love learning about everything :sweat_smile:
-- :raised_hands: *2022 Goals:* ✔️ keep expanding programming skills ✔️, move somewhere new? ✔️
-- :octocat: *Hobbies:* traveling(21 countries!), playing sports, and reading... any Sanderson fans?
+- :raised_hands: *2024 Goals:* Find my next adventure
+- :octocat: *Hobbies:* traveling(24 countries!), pickup sports, and reading... any Sanderson fans?
 
 ### Connect with me:
 
