@@ -1,7 +1,7 @@
 ### Welcome, I'm Jared 
 
 ## Developer, Traveler, Philosopher, Economist, Knight
-- :bulb: I love learning stuff  :sweat_smile:
+- :bulb: I love learning stuff  :smile:
 - :raised_hands: *2024 Goals:* Find my next adventure
 - :octocat: *Hobbies:* perpetually juggling them...traveling(24 countries!), pickup sports, cinematography, and reading... any Sanderson fans?
 
