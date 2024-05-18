@@ -1,9 +1,9 @@
 ### Welcome, I'm Jared 
 
-## Developer, Traveler, and Nerd!
-- :bulb: I love learning about everything :sweat_smile:
+## Developer, Traveler, Philosopher, Economist, Knight
+- :bulb: I love learning stuff  :sweat_smile:
 - :raised_hands: *2024 Goals:* Find my next adventure
-- :octocat: *Hobbies:* traveling(24 countries!), pickup sports, and reading... any Sanderson fans?
+- :octocat: *Hobbies:* perpetually juggling them...traveling(24 countries!), pickup sports, cinematography, and reading... any Sanderson fans?
 
 ### Connect with me:
 
