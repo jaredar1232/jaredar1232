@@ -1,6 +1,6 @@
-### Welcome, I'm Jared 
+## Welcome, I'm Jared 
 
-## Professional Amature Engineer
+### Some stuff about me
 - :bulb: I love learning stuff  :smiley:
 - :raised_hands: *2024 Goals:* Find my next adventure
 - :octocat: *Hobbies:* perpetually juggling them...traveling(25 countries!), pickup sports, cinematography, and reading... any Sanderson fans?
@@ -9,5 +9,7 @@
 [website]: https://www.jaredar.com/
 
 [linkedin]: https://www.linkedin.com/in/jared-rothenberg
+
+### Would love to hear some stuff about you, shoot me a message through one of the above platforms!
 
 
