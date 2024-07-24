@@ -2,7 +2,7 @@
 
 ### Some stuff about me
 - :bulb: I love learning, specifically getting hyper-fixated until I burn out said new interest  :smiley:
-- :raised_hands: *2024 Goals:* Find my next adventure
+- :raised_hands: *2024 Goals:* Find my next adventure. I'm currently traveling until I settle on my next new Job. As of writing, I'm living in Tokyo, Japan
 - :octocat: *Hobbies:* perpetually juggling them...traveling(25 countries!), pickup sports, cinematography, and reading... any Sanderson fans?
 
 
