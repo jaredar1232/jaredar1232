@@ -2,8 +2,8 @@
 
 ### Some stuff about me
 - :bulb: **I love learning**, specifically getting hyper-fixated until I burn out said new interest  :smiley:
-- :raised_hands: ***2025 Goals:*** Find my next adventure
-- :octocat: ***Hobbies**:* My consistent hobbies have been traveling(26 countries!), pickup sports & weight lifting, cinematography, the occasional anime or videogame binge, and reading... any Sanderson fans?
+- :raised_hands: ***2026 Goals:*** Build cool stuff— currently vibe coding a few projects
+- :octocat: ***Hobbies**:* My consistent hobbies have been traveling(29 countries!), pickup sports & weight lifting, cinematography, the occasional anime or videogame binge, and reading... any Sanderson fans?
 
 
 [website]: https://www.jaredar.com/
